@@ -1,0 +1,22 @@
+.Contenu, .ContenuCentrer, .EnteteContenu {
+  border-width: 0.5em;
+  border-radius: 0.5em;
+  background-color: #B0C4DE;
+  text-align: left;
+}
+
+.Contenu a:link, .Contenu a:visited, .ContenuCentrer a:link, .ContenuCentrer a:visited {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+.Contenu a:hover, .Contenu a:active, .ContenuCentrer a:hover, .ContenuCentrer a:active {
+  color: #E12C44;
+}
+
+.ContenuCentrer, .EnteteContenu {
+  text-align: center;
+  margin: 0 auto;
+}
+
